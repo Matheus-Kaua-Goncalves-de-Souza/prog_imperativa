@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c59197-86df-47af-a944-0a79089497c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios_beecrowd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preenc_vetor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preenc_vetor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preenc_vetor3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subst_vetor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trocaemVetor.java" afterDir="false" />
-    </list>
+    <list default="true" id="19c59197-86df-47af-a944-0a79089497c6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +18,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Matheus-Kaua-Goncalves-de-Souza&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Matheus-Kaua-Goncalves-de-Souza/prog_imperativa.git&quot;,
+    &quot;accountId&quot;: &quot;fabf2a4a-eb18-4c51-9e00-c123e4f5d6eb&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -45,13 +45,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.fibonacci.executor": "Run",
     "Application.preenc_vetor1.executor": "Run",
     "Application.preenc_vetor2.executor": "Run",
     "Application.preenc_vetor3.executor": "Run",
+    "Application.preenc_vetor4.executor": "Run",
+    "Application.preench_vetor4.executor": "Run",
+    "Application.selecaoemVetor.executor": "Run",
     "Application.subst_vetor1.executor": "Run",
+    "Application.test.executor": "Run",
     "Application.trocaemVetor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,30 +67,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.preenc_vetor3">
-    <configuration name="preenc_vetor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preenc_vetor1" />
+  <component name="RunManager" selected="Application.fibonacci">
+    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fibonacci" />
       <module name="exercicios_beecrowd" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="preenc_vetor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preenc_vetor2" />
+    <configuration name="preenc_vetor4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preenc_vetor4" />
       <module name="exercicios_beecrowd" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="preenc_vetor3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preenc_vetor3" />
+    <configuration name="preench_vetor4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preench_vetor4" />
       <module name="exercicios_beecrowd" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trocaemVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trocaemVetor" />
+    <configuration name="selecaoemVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selecaoemVetor" />
+      <module name="exercicios_beecrowd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="exercicios_beecrowd" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,10 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.preenc_vetor3" />
-        <item itemvalue="Application.trocaemVetor" />
-        <item itemvalue="Application.preenc_vetor2" />
-        <item itemvalue="Application.preenc_vetor1" />
+        <item itemvalue="Application.fibonacci" />
+        <item itemvalue="Application.preenc_vetor4" />
+        <item itemvalue="Application.selecaoemVetor" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.preench_vetor4" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +132,12 @@
       <workItem from="1728111428229" duration="9553000" />
       <workItem from="1728351963500" duration="7363000" />
       <workItem from="1728361264788" duration="11152000" />
+      <workItem from="1728427141799" duration="4606000" />
+      <workItem from="1728446199677" duration="2437000" />
+      <workItem from="1728494614557" duration="65000" />
+      <workItem from="1728494740835" duration="9649000" />
+      <workItem from="1728590678520" duration="9179000" />
+      <workItem from="1728615478092" duration="7112000" />
     </task>
     <servers />
   </component>
@@ -135,7 +154,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/preenc_vetor3.java</url>
-          <line>20</line>
+          <line>21</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
